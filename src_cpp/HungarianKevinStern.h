@@ -41,7 +41,7 @@
  * This version of the Hungarian algorithm runs in time O(n^3), where n is the
  * maximum among the number of workers and the number of jobs.
  *
- * @author Pranay Mundra
+ * @author anonymous
  * @package C++ Implementation of the Hungarian Algorithm originally by Kevin L. Stern
  * @copyright Kevin L. Stern
  */

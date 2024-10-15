@@ -146,7 +146,7 @@ vector<vector<double>> get_sim_matrix(vector<int>& raw_book_1, vector<int>& raw_
 }
 
 /**
- * Primarily maps Pranay's data structures to equivalent one of the Java implementation.
+ * Primarily maps org data structures to equivalent one of the Java implementation.
  * @param env
  * @param loader
  * @param theta
@@ -318,7 +318,7 @@ int main(int argc, char* argv[]) {
         }
         cout << endl;
     }else if(experiment == pan_experiment){
-        //TODO
+        //TODO clarify license issues
         cout << "Pan experiment not implemented yet." << endl;
     }else if(experiment == wiki_experiment){
         vector<int> k_s = {10};

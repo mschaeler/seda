@@ -1,7 +1,3 @@
-//
-// Created by Martin on 23.08.2023.
-//
-
 #ifndef PRANAY_TEST_SOLUTIONS_H
 #define PRANAY_TEST_SOLUTIONS_H
 
